@@ -1,4 +1,4 @@
-FROM newthings/node-git:9.5.0
+FROM newthings/node-git:10.3.0
 
 # Installs latest Chromium (64) package.
 # Puppeteer v0.13.0 works with Chromium 64.
